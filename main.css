@@ -8,14 +8,14 @@ p {
 	font-size:15px;
 	line-height:17px;
 	text-align:center;
-	/* -webkit-background-size:cover; */
+	-webkit-background-size:cover;
 	background-size:cover;
 	background-repeat: no-repeat;
 	background-position: center;
 	background: url(./text.PNG) no-repeat center/cover;
 	background-attachment: fixed;
 	-webkit-background-clip: text;
-	-webkit-text-fill-color: rgb(255,255,255,0.1);
+	-webkit-text-fill-color: rgb(255,255,255,0);
 
 }
 
