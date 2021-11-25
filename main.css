@@ -25,6 +25,17 @@ p {
   }
 
 @media (max-width: 767px){
+	.itembox{
+		display: block;
+	}
+	.imgbox{ 
+		width: 90%;
+		padding: 20px;
+	}
+	.textbox{ 
+		padding: 20px 20px 10px 20px;
+		text-align: justify;
+	}
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
