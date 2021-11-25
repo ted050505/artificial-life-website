@@ -15,7 +15,7 @@ p {
 	background: url(./text.PNG) no-repeat center/cover;
 	background-attachment: fixed;
 	-webkit-background-clip: text;
-	-webkit-text-fill-color: rgb(255,255,255,10);
+	-webkit-text-fill-color: rgb(255,255,255,0);
 
 }
 
