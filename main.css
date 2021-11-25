@@ -16,4 +16,10 @@ p {
 	background-attachment: fixed;
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: rgb(255,255,255,10);
+
 }
+
+.img_responsive{
+	width: 100%; 
+	height: auto;
+  }
